@@ -5,7 +5,16 @@
     "guid": "505ce9d1-d916-42fa-86ca-673ef241d7df",
     "name": "SSO Authentication",
     "overview": "Authenticate users against an SSO provider.",
-    "owner": "eivarin",
-    "versions": []
+    "owner": "9p4",
+    "versions": [
+      {
+        "changelog": "Nightly build\n",
+        "checksum": "b1b568bc70979a23fb714dd753f012a6",
+        "sourceUrl": "https://github.com/eivarin/jellyfin-plugin-sso/releases/download/nightly/sso-authentication_0.0.0.9000.zip",
+        "targetAbi": "10.11.0.0",
+        "timestamp": "2025-10-23T17:43:01Z",
+        "version": "0.0.0.9000"
+      }
+    ]
   }
 ]
